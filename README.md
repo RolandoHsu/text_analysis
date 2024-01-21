@@ -23,3 +23,6 @@
 * 新增prompt
 * 更新prompt
 * 刪除prompt
+
+3. 流程圖
+![圖片](https://raw.githubusercontent.com/RolandoHsu/text_analysis/main/image/text_analysis.ico)
