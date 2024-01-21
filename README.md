@@ -26,3 +26,6 @@
 
 3. 流程圖
 ![圖片](https://github.com/RolandoHsu/text_analysis/blob/main/image/%E6%B5%81%E7%A8%8B%E5%9C%96.png?raw=true)
+
+4. 介面
+![圖片]()
