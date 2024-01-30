@@ -29,3 +29,5 @@
 
 4. 介面
 ![圖片](https://github.com/RolandoHsu/text_analysis/blob/main/image/app.png?raw=true)
+
+5. DEMO影片: 如DEMO影片.mp4
