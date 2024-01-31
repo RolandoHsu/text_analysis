@@ -10,7 +10,7 @@
   * python: 主功能、function 撰寫
   * whisper: 針對輸入的mp3、mp4等語音檔進行語音轉文字
   * chatgpt: 將預設的prompt及丟入的檔案文字串接api，執行文字翻譯、摘要...等預設功能。
-  * mysql: 儲存預測之chatgpt prompt
+  * mysql: 儲存預設之chatgpt prompt
 * 目前可執行之功能
   * 翻譯
   * 摘要
